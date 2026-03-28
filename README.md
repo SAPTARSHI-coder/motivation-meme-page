@@ -35,6 +35,3 @@ Open `index.html` in any browser. An internet connection is needed to load the G
 - Image width set as a percentage of its containing block
 - Google Fonts integration
 
----
-*Part of the Antigravity project collection — Saptarshi Sadhu*
-"# motivation-meme-page" 
