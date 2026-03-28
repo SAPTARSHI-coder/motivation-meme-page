@@ -4,7 +4,7 @@ A single-page CSS layout exercise featuring a centered content column with an im
 
 ## Overview
 
-The page displays a female character image, an uppercase heading ("THAT SPECIAL MOMENT"), and a humorous subtitle. All visual formatting — centering, font styling, image sizing, and text transformation — is applied exclusively through CSS with no inline styles.
+The page displays a character image, an uppercase heading ("THAT SPECIAL MOMENT"), and a humorous subtitle. All visual formatting — centering, font styling, image sizing, and text transformation — is applied exclusively through CSS with no inline styles.
 
 ## Tech Stack
 
