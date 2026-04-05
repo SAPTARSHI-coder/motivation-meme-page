@@ -1,5 +1,11 @@
 # Motivation Meme Page
 
+**[ Play Live / Demo](https://motivation-meme-page.vercel.app/)**
+
+## Preview
+
+![Preview](./assets/ss.png)
+
 A single-page CSS layout exercise featuring a centered content column with an image, a bold uppercase heading, and a styled subtitle. The page uses a classic serif font and demonstrates fundamental CSS centering and text transformation techniques.
 
 ## Overview
