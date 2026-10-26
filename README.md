@@ -1,13 +1,46 @@
 # Motivation Meme Page
 
-A single-page HTML and CSS layout exercise built around an image, a bold headline, and a short motivational caption.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Run locally
+**[ Play Live / Demo](https://motivation-meme-page.vercel.app/)**
 
-Open `index.html` in a browser. No build step is required.
+## Preview
 
-## Concepts
+![Preview](./assets/ss.png)
 
-- Centered, image-led composition
-- Typography and text styling
-- Spacing and responsive layout
+A single-page CSS layout exercise featuring a centered content column with an image, a bold uppercase heading, and a styled subtitle. The page uses a classic serif font and demonstrates fundamental CSS centering and text transformation techniques.
+
+## Overview
+
+The page displays a character image, an uppercase heading ("THAT SPECIAL MOMENT"), and a humorous subtitle. All visual formatting — centering, font styling, image sizing, and text transformation — is applied exclusively through CSS with no inline styles.
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| HTML5 | Basic page structure |
+| CSS3 | Layout, typography, and text transformation |
+| Google Fonts (Libre Baskerville) | Serif typography |
+
+## Project Structure
+
+```
+motivation-meme-page/
+├── index.html             — Page markup
+├── style.css              — All styles
+└── assets/images/         — Character image
+```
+
+## Getting Started
+
+Open `index.html` in any browser. An internet connection is needed to load the Google Font; the page falls back to a system serif otherwise.
+
+## Key Concepts
+
+- Horizontal centering of a block element using `width` and `margin`
+- `text-align: center` for inline content alignment
+- `text-transform: uppercase` to apply case transformation via CSS
+- Image width set as a percentage of its containing block
+- Google Fonts integration
